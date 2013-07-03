@@ -1,0 +1,5 @@
+F:\SERJ\Integral\Integral\bin\Release\Integral.exe
+F:\SERJ\Integral\Integral\bin\Release\Integral.pdb
+F:\SERJ\Integral\Integral\obj\x86\Release\ResolveAssemblyReference.cache
+F:\SERJ\Integral\Integral\obj\x86\Release\Integral.exe
+F:\SERJ\Integral\Integral\obj\x86\Release\Integral.pdb
